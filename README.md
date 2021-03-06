@@ -7,4 +7,4 @@ Each playbook can help the Threat Intelligence analyst to organize the tasks and
 ## Threat Intelligence Playbooks Created so far
 
 - Intrusion Analysis Playbook
-  - Article: [High-Level Threat Intelligence Playbooks: Intrusion Analysis Playbook]()
+  - Article: [High-Level Threat Intelligence Playbooks: Intrusion Analysis Playbook](https://kostas-ts.medium.com/high-level-threat-intelligence-playbooks-intrusion-analysis-playbook-95e1b8d3a1be)
